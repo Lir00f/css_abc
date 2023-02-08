@@ -17,5 +17,5 @@ a.two{
     text-decoration: none;
 }
 a.two:hover{
-    color: red;
+    color: rgb(255, 0, 0);
     text-decoration-line: underline;
