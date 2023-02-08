@@ -1,0 +1,21 @@
+div p {
+	color: red;
+}
+div h2 {
+	color: blue;
+}
+#block p {color: brown;}
+#block h2 {color: yellow;}
+.bbb {color: coral;}
+#block .bbb {color: darkgrey;}
+p.bbb {color: dodgerblue;}
+h2.bbb {color: fuchsia;}
+#block p.bbb {color: hotpink;}
+.bbb, .xxx {color: firebrick;}
+p.bbb, h2.xxx {color: darkcyan;}
+#block p.bbb, #block p.xxx {color: forestgreen;}
+.fff * {color: crimson;}
+.fff p {color: rgb(199, 29, 199);}
+p.fff c{color: rgb(14, 14, 128);}
+.fff .bbb {color: gold;}
+.fff h2.bbb {color: darkgreen;}
