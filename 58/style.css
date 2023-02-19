@@ -1,0 +1,5 @@
+#elem {
+	background-image: url("bg.png") center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
