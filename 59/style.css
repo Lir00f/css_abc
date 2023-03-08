@@ -1,0 +1,22 @@
+body {
+    margin: 20px 150px;
+ }
+
+ body * {
+    margin: 0 auto;
+ }
+
+ /*_____________№1_____________*/
+ .first li {
+    list-style: square;
+ }
+ 
+ /*_____________№2_____________*/
+ .second li {
+    list-style: circle;
+ }
+ 
+ /*_____________№3_____________*/
+ .thirth li {
+    list-style: none;
+ }
