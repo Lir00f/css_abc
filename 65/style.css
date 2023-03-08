@@ -1,0 +1,11 @@
+
+body {
+   margin: 20px 150px;
+}
+
+/*_____________№1_____________*/
+.one {
+   border: 1px solid red;
+   padding: 50px 15px 100px 15px;
+   width: 200px;
+}

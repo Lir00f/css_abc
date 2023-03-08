@@ -1,0 +1,27 @@
+body {
+   margin: 20px 150px;
+}
+
+/*_____________№1_____________*/
+.one {
+   border: 1px solid red;
+   padding: 10px 25px 40px 50px;
+   width: 300px;
+   text-align: justify;
+}
+
+/*_____________№2_____________*/
+.two {
+   border: 1px solid red;
+   padding: 50px 25px ;
+   width: 300px;
+   text-align: justify;
+}
+
+/*_____________№3_____________*/
+.three {
+   border: 1px solid red;
+   padding: 10px 20px 40px;
+   width: 300px;
+   text-align: justify;
+}

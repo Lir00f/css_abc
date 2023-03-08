@@ -1,0 +1,25 @@
+body {
+   margin: 20px 150px;
+}
+
+/*_____________№1_____________*/
+.box {
+   width: 200px;
+   height: 200px;
+   border: 1px solid purple;
+   background-color: purple;
+   border-radius: 30px;
+   padding: 20px;
+   display: inline-block;
+   margin-right: 50px;
+   color: #fff;
+   text-align: center;
+}
+
+.box1 {
+   box-sizing: content-box;
+}
+
+.box2 {
+   box-sizing: border-box;
+}
